@@ -18,6 +18,3 @@ def index():
         return render_template("home.html", results = found)
     else:
         return render_template("home.html")
-
-if __name__ == "__main__":
-    app.run(port=5003, debug = True)
