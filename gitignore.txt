@@ -1,1 +1,1 @@
-app/__psycache__/
+app/__pycache__/
